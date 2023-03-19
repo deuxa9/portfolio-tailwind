@@ -1,11 +1,6 @@
 {
   "devDependencies": {
     "tailwindcss": "^3.2.7"
-  },
-
-  "scripts": {
-    "dev": *postcss src/input.css -o dist/output.css*,
-    "build": *NODE_ENV=production postcss src/input.css -o dist/output.css*
-
   }
+
 }
